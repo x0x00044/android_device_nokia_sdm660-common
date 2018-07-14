@@ -209,9 +209,7 @@ PRODUCT_PACKAGES += \
 # IPACM
 PRODUCT_PACKAGES += \
     ipacm \
-    IPACM_cfg.xml \
-    libipanat \
-    liboffloadhal
+    IPACM_cfg.xml
 
 # IRQ
 PRODUCT_COPY_FILES += \
@@ -366,8 +364,7 @@ PRODUCT_PACKAGES += \
     android.hardware.radio.deprecated@1.0.vendor \
     librmnetctl \
     libsqlite.vendor \
-    libsysutils.vendor \
-    libxml2
+    libsysutils.vendor
 
 # Seccomp
 PRODUCT_COPY_FILES += \
