@@ -355,6 +355,7 @@ PRODUCT_COPY_FILES += \
 
 # Radio
 PRODUCT_PACKAGES += \
+    CarrierConfigOverlay \
     android.hardware.radio@1.4 \
     android.hardware.radio@1.4.vendor \
     android.hardware.radio@1.2 \
