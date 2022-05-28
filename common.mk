@@ -261,10 +261,6 @@ PRODUCT_PACKAGES += \
     android.system.net.netd@1.1.vendor \
     libnetutils.vendor
 
-# Network
-PRODUCT_PACKAGES += \
-    netutils-wrapper-1.0
-
 # OMX
 PRODUCT_PACKAGES += \
     libc2dcolorconvert \
