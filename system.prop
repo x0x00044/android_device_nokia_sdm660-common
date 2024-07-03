@@ -33,7 +33,6 @@ camera.aux.packagelist=com.hmdglobal.camera2,cameratest,com.evenwell.fqc,com.too
 camera.hal1.packagelist=com.dw.btime
 persist.camera.awbdefine=1
 persist.camera.debug_img_exif=1
-persist.camera.debug_img_exif=1
 persist.camera.privapp.list=org.codeaurora.snapcam
 persist.vendor.camera.preview.ubwc=0
 persist.vendor.camera.privapp.list=org.codeaurora.snapcam
